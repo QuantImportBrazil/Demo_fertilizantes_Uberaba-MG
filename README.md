@@ -20,6 +20,7 @@
   
   
 ![Gráfico de Previsão](Uberaba_Nitrogenados.png) 
+<sub>Previsto* - Tamanho do X corresponde à probabilidade da importação ocorrer</sub>
   
 ---
 
