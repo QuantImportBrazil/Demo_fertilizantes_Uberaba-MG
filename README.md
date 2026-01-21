@@ -4,7 +4,7 @@
 
 ---
 
-## Previsão de Importação - Uberaba_MG
+## Previsão de Importação - Uberaba-MG
 
 > **Emissão:** 1-2026
 > 
