@@ -17,7 +17,7 @@
 ---  
   
   
-![Gráfico de Previsão](download13.png)
+![Gráfico de Previsão](download31.png)
 <sub>* Tamanho do X corresponde à probabilidade da importação ocorrer</sub>  
 <sub>* IC: Intervalo de Confiança</sub>  
 
